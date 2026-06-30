@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lato:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply font-sans text-stone-800 bg-stone-50;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply font-serif text-4xl md:text-5xl font-bold text-earth-mid leading-tight;
+  }
+  .section-subtitle {
+    @apply font-sans text-sm uppercase tracking-[0.25em] text-savane-500 font-semibold mb-3;
+  }
+  .btn-primary {
+    @apply inline-block bg-savane-500 hover:bg-savane-600 text-white font-sans font-semibold
+           px-8 py-3 tracking-widest uppercase text-sm transition-all duration-300
+           border-2 border-savane-500 hover:border-savane-600;
+  }
+  .btn-outline {
+    @apply inline-block bg-transparent hover:bg-white/10 text-white font-sans font-semibold
+           px-8 py-3 tracking-widest uppercase text-sm transition-all duration-300
+           border-2 border-white;
+  }
+}
