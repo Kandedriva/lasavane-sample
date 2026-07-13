@@ -3,21 +3,21 @@ const categories = [
     name: 'Starters',
     items: [
       {
-        name: 'Accra de Morue',
-        desc: 'Spiced cod fritters, sweet chili sauce and lime',
+        name: 'Lorem Ipsum I',
+        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor',
         price: '$10',
         image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&q=80',
         badge: 'Must-Try',
       },
       {
-        name: 'African Salad',
-        desc: 'Avocado, fresh mango, grilled shrimp, lemongrass vinaigrette',
+        name: 'Dolor Sit Amet',
+        desc: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip',
         price: '$12',
         image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80',
       },
       {
-        name: 'Groundnut Soup',
-        desc: 'Creamy peanut and tomato soup, fresh ginger and coconut milk',
+        name: 'Consectetur Elit',
+        desc: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat',
         price: '$9',
         image: 'https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80',
         badge: 'Vegetarian',
@@ -28,21 +28,21 @@ const categories = [
     name: 'Main Courses',
     items: [
       {
-        name: 'Royal Thiéboudienne',
-        desc: 'The Senegalese national dish — fragrant rice, fresh fish, braised vegetables',
+        name: 'Adipiscing Magna',
+        desc: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt',
         price: '$24',
         image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&q=80',
         badge: 'Signature',
       },
       {
-        name: 'Chicken Yassa',
-        desc: 'Lemon-onion marinated chicken, jasmine rice, olives and chili',
+        name: 'Tempor Incididunt',
+        desc: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque',
         price: '$21',
         image: 'https://images.unsplash.com/photo-1598103442097-8b74394b95c3?w=400&q=80',
       },
       {
-        name: 'Suya Beef Skewers',
-        desc: 'Grilled beef with suya spices, onion salad, peanut sauce',
+        name: 'Labore Dolore',
+        desc: 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed',
         price: '$23',
         image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80',
         badge: 'Popular',
@@ -53,21 +53,21 @@ const categories = [
     name: 'Desserts',
     items: [
       {
-        name: 'Passion Thiakry',
-        desc: 'Creamy semolina with coconut, passion fruit coulis',
+        name: 'Voluptatem Velit',
+        desc: 'Ut enim ad minima veniam quis nostrum exercitationem ullam corporis suscipit laboriosam',
         price: '$8',
         image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&q=80',
       },
       {
-        name: 'Flambéed Bananas',
-        desc: 'Rum-caramelized bananas, Madagascar vanilla ice cream',
+        name: 'Accusantium Laudantium',
+        desc: 'Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil',
         price: '$9',
         image: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&q=80',
         badge: "Chef's Pick",
       },
       {
-        name: 'Bissap Juice',
-        desc: 'Hibiscus infusion, fresh mint, ginger (hot or cold)',
+        name: 'Natus Error Sit',
+        desc: 'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium',
         price: '$5',
         image: 'https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?w=400&q=80',
         badge: 'House',
@@ -119,12 +119,12 @@ export default function Menu() {
         <div className="text-center mb-16">
           <p className="section-subtitle">Our Menu</p>
           <h2 className="section-title mb-4">
-            Flavors that will<br />
-            <span className="italic text-savane-600">transport you</span>
+            Lorem ipsum dolor<br />
+            <span className="italic text-savane-600">sit amet</span>
           </h2>
           <p className="font-sans text-stone-500 max-w-xl mx-auto font-light">
-            Our recipes blend ancestral tradition with contemporary touches, carefully revisited
-            by our chef to awaken your senses.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua enim ad minim.
           </p>
         </div>
 
@@ -149,7 +149,7 @@ export default function Menu() {
         {/* CTA */}
         <div className="text-center mt-16">
           <p className="font-sans text-stone-500 mb-6 font-light">
-            Discover our full menu with over 80 dishes
+            Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod
           </p>
           <a href="#reservation" className="btn-primary">
             Book for Dinner

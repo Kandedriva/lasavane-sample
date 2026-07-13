@@ -36,13 +36,13 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-16 grid md:grid-cols-2 lg:grid-cols-4 gap-12">
         {/* Brand */}
         <div className="lg:col-span-1">
-          <p className="font-serif text-white text-2xl font-bold">La Savane</p>
+          <p className="font-serif text-white text-2xl font-bold">Yopcity</p>
           <p className="font-serif text-savane-400 text-sm italic mb-4">
-            d'Afrique
+            Restaurant
           </p>
           <p className="font-sans text-sm font-light leading-relaxed text-stone-500">
-            Authentic African restaurant in the heart of Paris. An invitation to
-            travel, an ode to the flavors of a continent.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <div className="flex gap-4 mt-6">
             {["facebook", "instagram", "tiktok"].map((s) => (

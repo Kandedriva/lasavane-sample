@@ -30,8 +30,8 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <a href="#hero" className="flex items-baseline gap-2 leading-none">
-          <span className="font-serif text-savane-300 text-sm font-bold tracking-wide">La Savane</span>
-          <span className="font-serif text-white text-[9px] tracking-[0.3em] uppercase">d'Afrique</span>
+          <span className="font-serif text-savane-300 text-sm font-bold tracking-wide">Yopcity</span>
+          <span className="font-serif text-white text-[9px] tracking-[0.3em] uppercase">Restaurant</span>
         </a>
 
         {/* Desktop links */}

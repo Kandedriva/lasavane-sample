@@ -38,24 +38,24 @@ export default function About() {
           <div className="lg:pl-8">
             <p className="section-subtitle">Our Story</p>
             <h2 className="section-title mb-6">
-              A passion born<br />
-              <span className="italic text-savane-600">in the heart of Africa</span>
+              Lorem ipsum dolor<br />
+              <span className="italic text-savane-600">sit amet consectetur</span>
             </h2>
 
             <div className="space-y-5 text-stone-600 font-sans font-light leading-relaxed">
               <p>
-                Founded over 15 years ago, <strong className="font-semibold text-earth-mid">La Savane d'Afrique</strong> was
-                born from a Senegalese family's dream to share the culinary treasures of an entire continent.
-                Every dish tells a story, every flavor evokes a landscape.
+                Lorem ipsum dolor sit amet, <strong className="font-semibold text-earth-mid">Yopcity Restaurant</strong> consectetur
+                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam quis nostrud exercitation.
               </p>
               <p>
-                Our chef, trained between Dakar, Abidjan, and Paris, draws from the culinary traditions of
-                West Africa to offer you an authentic and refined experience. The spices we use are imported
-                directly from African markets.
+                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                Excepteur sint occaecat cupidatat non proident.
               </p>
               <p>
-                Step into our world, close your eyes, and let yourself be swept away by the enchanting
-                aromas of the savanna.
+                Sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
+                unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
               </p>
             </div>
 

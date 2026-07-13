@@ -15,11 +15,11 @@ export default function Gallery() {
         <div className="text-center mb-16">
           <p className="section-subtitle text-savane-400">Our World</p>
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-white mb-4">
-            The art of <span className="italic text-savane-300">hospitality</span>
+            Lorem ipsum <span className="italic text-savane-300">dolor sit</span>
           </h2>
           <p className="font-sans text-stone-400 max-w-lg mx-auto font-light">
-            A warm setting inspired by African landscapes, where every detail
-            evokes the authenticity and refinement of the continent.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua enim ad minim veniam.
           </p>
         </div>
 
@@ -42,7 +42,7 @@ export default function Gallery() {
         {/* Instagram handle */}
         <div className="text-center mt-10">
           <p className="font-sans text-stone-500 text-sm uppercase tracking-widest">
-            Follow us <span className="text-savane-400">@lasavanedafrique</span>
+            Follow us <span className="text-savane-400">@yopcityrestaurant</span>
           </p>
         </div>
       </div>

@@ -1,23 +1,23 @@
 const reviews = [
   {
-    name: 'Sophie L.',
-    location: 'Paris',
+    name: 'Lorem I.',
+    location: 'New York',
     stars: 5,
-    text: "An absolutely unforgettable culinary experience. The Thiéboudienne was divine and the atmosphere truly transported us to Africa. Highly recommended!",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.",
     avatar: 'https://i.pravatar.cc/80?img=47',
   },
   {
-    name: 'Marc D.',
-    location: 'Lyon',
+    name: 'Ipsum D.',
+    location: 'Chicago',
     stars: 5,
-    text: 'The best African restaurant I have ever visited. The spices are of exceptional quality, the service impeccable. A true gastronomic gem.',
+    text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa.",
     avatar: 'https://i.pravatar.cc/80?img=12',
   },
   {
-    name: 'Amina K.',
-    location: 'Bordeaux',
+    name: 'Dolor A.',
+    location: 'Los Angeles',
     stars: 5,
-    text: "As a Senegalese woman, this restaurant reminds me of my mother's flavors. It is the highest fidelity of African cuisine in an elegant and warm setting.",
+    text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis.",
     avatar: 'https://i.pravatar.cc/80?img=45',
   },
 ];
@@ -44,7 +44,7 @@ export default function Testimonials() {
         <div className="text-center mb-16">
           <p className="section-subtitle text-savane-400">Testimonials</p>
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-white mb-4">
-            What <span className="italic text-savane-300">our guests</span> say
+            Lorem ipsum <span className="italic text-savane-300">dolor sit amet</span>
           </h2>
         </div>
 

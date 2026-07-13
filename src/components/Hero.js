@@ -19,33 +19,33 @@ export default function Hero() {
       <div className="absolute left-8 top-1/2 -translate-y-1/2 hidden lg:flex flex-col items-center gap-4">
         <div className="w-px h-24 bg-savane-400/60" />
         <span className="text-savane-400/80 text-xs tracking-[0.3em] uppercase rotate-90 whitespace-nowrap my-4">
-          African Cuisine
+          Lorem Ipsum
         </span>
         <div className="w-px h-24 bg-savane-400/60" />
       </div>
 
       {/* Content */}
       <div className="relative z-10 text-center text-white px-6 max-w-4xl mx-auto">
-        <p className="section-subtitle text-savane-300 mb-6">Authentic African Restaurant</p>
+        <p className="section-subtitle text-savane-300 mb-6">Lorem Ipsum Dolor Sit Amet</p>
 
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold leading-tight mb-4">
-          La Savane
+          Yopcity
         </h1>
         <h2 className="font-serif text-3xl md:text-5xl lg:text-6xl font-light italic text-savane-200 mb-8">
-          d'Afrique
+          Restaurant
         </h2>
 
         <div className="flex items-center justify-center gap-4 mb-10">
           <div className="w-16 h-px bg-savane-400" />
           <span className="font-sans text-xs uppercase tracking-[0.4em] text-stone-300">
-            Flavors · Sharing · Authenticity
+            Lorem · Ipsum · Dolor
           </span>
           <div className="w-16 h-px bg-savane-400" />
         </div>
 
         <p className="font-sans text-base md:text-lg text-stone-300 max-w-xl mx-auto mb-12 font-light leading-relaxed">
-          A culinary journey to the heart of Africa. Wild flavors, enchanting spices,
-          and recipes passed down from generation to generation.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua ut enim.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
